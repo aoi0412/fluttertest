@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'viewHelloWorld.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(
+    const ProviderScope(child:  Riverpod())
+    );
 }
 
 class MyApp extends StatelessWidget {
