@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040893445147",
+    "project_id": "mirumiru-test",
+    "storage_bucket": "mirumiru-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040893445147:android:7fb4dde1cc5ab636c9e4be",
+        "android_client_info": {
+          "package_name": "com.example.milmeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040893445147-9mfo0qohb7r7vlglcr20jjr3hfk1p0kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZlF0VsRbr4e6DpOZTqNEvx7Px9gD8XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040893445147-9mfo0qohb7r7vlglcr20jjr3hfk1p0kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
